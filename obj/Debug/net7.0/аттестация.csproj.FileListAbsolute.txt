@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\аттестация\bin\Debug\net7.0\аттестация.exe
+C:\Users\User\Desktop\аттестация\bin\Debug\net7.0\аттестация.deps.json
+C:\Users\User\Desktop\аттестация\bin\Debug\net7.0\аттестация.runtimeconfig.json
+C:\Users\User\Desktop\аттестация\bin\Debug\net7.0\аттестация.dll
+C:\Users\User\Desktop\аттестация\bin\Debug\net7.0\аттестация.pdb
+C:\Users\User\Desktop\аттестация\obj\Debug\net7.0\аттестация.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\аттестация\obj\Debug\net7.0\аттестация.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\аттестация\obj\Debug\net7.0\аттестация.AssemblyInfo.cs
+C:\Users\User\Desktop\аттестация\obj\Debug\net7.0\аттестация.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\аттестация\obj\Debug\net7.0\аттестация.dll
+C:\Users\User\Desktop\аттестация\obj\Debug\net7.0\refint\аттестация.dll
+C:\Users\User\Desktop\аттестация\obj\Debug\net7.0\аттестация.pdb
+C:\Users\User\Desktop\аттестация\obj\Debug\net7.0\аттестация.genruntimeconfig.cache
+C:\Users\User\Desktop\аттестация\obj\Debug\net7.0\ref\аттестация.dll
